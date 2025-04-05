@@ -1,0 +1,3 @@
+Baseline Latency: 0.0152 s/sample
+Optimized Latency: 0.0011 s/sample
+Improvement: 92.60%
