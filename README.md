@@ -7,6 +7,7 @@ Proof-of-concept for my GSoC 2025 DeepMind proposal.
 - **Model**: `google/flan-t5-small` (text-only; images simulated).  
 - **Goal**: Compare baseline vs. batched latency.  
 - **Results**: Reduced latency from 0.0152 s/sample to 0.0011 s/sample (92.60% improvement).
+- Note: This is a 200-sample prototype. Full 5,000-sample benchmark will be implemented during GSoC Phase 2.
 
 ## Setup
 1. Clone: `git clone [your-repo-url]`
